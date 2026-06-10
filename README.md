@@ -22,4 +22,4 @@ Standing ultrasonic waves create pressure nodes that can suspend lightweight obj
 
 ## Author
 Chandrahas S
-BE Electronics and Communication Engineering
+BE Computer Science and Engineering
